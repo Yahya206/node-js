@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/newmanix/nodejs-testing-sm21.git"
+    "url": " https://yahya206.github.io/seasonal-style/"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/newmanix/nodejs-testing-sm21/issues"
+    "url": " https://yahya206.github.io/seasonal-style/"
   },
-  "homepage": "https://github.com/newmanix/nodejs-testing-sm21#readme",
+  "homepage": " https://yahya206.github.io/seasonal-style/e",
   "devDependencies": {
     "chai": "^4.3.4",
     "chai-asserttype": "^1.0.5",
